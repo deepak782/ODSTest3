@@ -10,6 +10,9 @@
         <entry key="..\:/ODSTest3/customapp/src/main/res/layout/activity_main.xml" value="0.16374519025224454" />
         <entry key="..\:/ODSTest3/customapp/src/main/res/layout/activity_main2.xml" value="0.16374519025224454" />
         <entry key="..\:/ODSTest3/customapp/src/main/res/layout/custom_user.xml" value="0.25" />
+        <entry key="..\:/ODSTest3/customrecycler/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/ODSTest3/customrecycler/src/main/res/layout/custom_horizontal.xml" value="0.18" />
+        <entry key="..\:/ODSTest3/customrecycler/src/main/res/layout/custom_vertical.xml" value="0.25" />
       </map>
     </option>
   </component>
